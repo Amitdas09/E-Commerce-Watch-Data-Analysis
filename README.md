@@ -23,7 +23,8 @@ This project is a **Watch Sales Data Analysis** built using **Power BI**. The an
 - **Python** (for any additional data pre-processing, if required).
 
 ## 📸 Dashboard Preview
-![Watch Sales Dashboard](watch1.png)
+![image](https://github.com/user-attachments/assets/fa7fea06-7a23-4e1e-be92-1d2e51cae845)
+
 
 ## 📈 Insights Breakdown
 ### 1️⃣ Profit Analysis
@@ -42,11 +43,6 @@ This project is a **Watch Sales Data Analysis** built using **Power BI**. The an
 1. Download and open `watch.pbix` in **Power BI**.
 2. Ensure the `Budget.xlsx`, `Details.xlsx`, and `Orders.xlsx` files are correctly linked.
 3. Explore the various visualizations for insights.
-
-## REFFER THE IMAGE FOR THE BASIC IDEA OF THE PROJECT!!
-  ![image](https://github.com/user-attachments/assets/f27d0a96-0e79-408c-a8f4-1d36eef37fc5)
-
-
 
 ## 📢 Conclusion
 This project provides a **comprehensive sales analysis** to help businesses understand their profitability and sales trends. The interactive Power BI dashboard allows for easy exploration and decision-making.
